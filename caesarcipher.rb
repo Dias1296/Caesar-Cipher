@@ -13,8 +13,3 @@ def caesar_cipher(string_to_cipher, defined_shift)
     end
 end
 end
-
-cipher = "This is a test"
-caesar_cipher(cipher, -4)
-
-puts cipher
